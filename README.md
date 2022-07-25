@@ -37,10 +37,10 @@ After taking a look at the data, I wanted to to understand what are the main var
 
 ### Results<a name="results"></a>
 
-Boston's data can be found here: https://www.kaggle.com/datasets/airbnb/boston 
-Seattle's data can be found here: https://www.kaggle.com/datasets/airbnb/seattle
-Feature Importance Analysis: https://towardsdatascience.com/explaining-feature-importance-by-example-of-a-random-forest-d9166011959e
-Hyperparameter Tuning: https://towardsdatascience.com/gridsearchcv-or-randomsearchcv-5aa4acf5348c
+- Boston's data can be found here: https://www.kaggle.com/datasets/airbnb/boston 
+- Seattle's data can be found here: https://www.kaggle.com/datasets/airbnb/seattle
+- Feature Importance Analysis: https://towardsdatascience.com/explaining-feature-importance-by-example-of-a-random-forest-d9166011959e
+- Hyperparameter Tuning: https://towardsdatascience.com/gridsearchcv-or-randomsearchcv-5aa4acf5348c
 
 
 
