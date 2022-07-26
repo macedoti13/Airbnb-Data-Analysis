@@ -1,7 +1,7 @@
 # Predicting your Airbnb Listing Price
 ## Udacity's Data Scientist Nanodegree Airbnb Project
 
-**This is an analysis from Boston and Seattle's Airbnb data. The project's objective was to answer 3 questions using data analysis and modelling techniques. My findings can also be found in a medium article here:** link here
+**This is an analysis from Boston and Seattle's Airbnb data. The project's objective was to answer 3 questions using data analysis and modelling techniques. My findings can also be found in a medium article here:** https://medium.com/@macedoti/this-is-how-to-make-your-property-the-best-listing-at-airbnb-c13503cc2ac2
 
 ### Table of Contents
 1. [Used Frameworks](#frameworks)
